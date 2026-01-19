@@ -1,10 +1,10 @@
-💫 Hi 👋, I’m Navin Tiwari
+💫 Hi 👋, Rashmi Ranjan Sahu
 
 Frontend Developer| Cloud Computing Enthusiast | 🇮🇳 India
 
 📧 Email: ✉️ rashmiranjanbam@gmail.com
 
-(For collaboration, projects, or anything else 😊)
+(For collaboration, projects, or anything else 😊) 
 🔭 I’m currently working on: —
 
 🌱 I’m currently learning: Data Analyst
